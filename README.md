@@ -2,7 +2,9 @@
 
 ### Hi, I'm Yonas Wondimagegn 👋
 
-**Full Stack Developer · Python · Building things that matter**
+**Full Stack Developer · Python**
+**Building things that matter**
+
 
 *One day at a time :)*
 
